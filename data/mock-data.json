@@ -1,0 +1,99 @@
+{
+    "id" : "1",
+    "name": "Pramod Jain",
+    "mobile": "9893145051",
+    "email": "pramod.jain@outlook.com",
+    "address": "Nagpur, India",
+    "website" : "www.pramodjain.com",
+    "objective": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "skills" : [
+        {"name" : "Javascript", "rating" : "4.5", "exp" : "6 years"},
+        {"name" : "HTML", "rating" : "4.8", "exp" : "6 years"},
+        {"name" : "CSS", "rating" : "4.7", "exp" : "6 years"},
+        {"name" : "Angular", "rating" : "4.2", "exp" : "6 years"},
+        {"name" : "React JS", "rating" : "3", "exp" : "6 years"}
+    ],
+    "workExperience" : [
+        {
+            "current" : false,
+            "fromMonth" : "01",
+            "fromYear" : "2015",
+            "toMonth" : "12",
+            "toYear" : "2015",
+            "company" : "Wipro",
+            "designation" : "Software Engineer",
+            "address" : "Pune, India",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "current" : false,
+            "fromMonth" : "01",
+            "fromYear" : "2016",
+            "toMonth" : "12",
+            "toYear" : "2016",
+            "company" : "Cognizant",
+            "designation" : "Senior Software Engineer",
+            "address" : "Pune, India",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "current" : true,
+            "fromMonth" : "01",
+            "fromYear" : "2017",
+            "toMonth" : "",
+            "toYear" : "",
+            "company" : "TCS",
+            "designation" : "IT Analyst",
+            "address" : "Nagpur, India",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+    ],
+    "education" : [
+        {
+            "current" : false,
+            "fromMonth" : "01",
+            "fromYear" : "2015",
+            "toMonth" : "12",
+            "toYear" : "2015",
+            "institute" : "Bhilai Institute of Technology",
+            "course" : "MCA",
+            "address" : "Chhattisgarh, India",
+            "description":"70%"
+        },
+        {
+            "current" : false,
+            "fromMonth" : "01",
+            "fromYear" : "2015",
+            "toMonth" : "12",
+            "toYear" : "2015",
+            "institute" : "Bhilai Institute of Technology",
+            "course" : "BCA",
+            "address" : "Chhattisgarh, India",
+            "description":"70%"
+        }
+    ],
+    "sections": [
+        {
+            "title": "Lorem ipsum",
+            "content": [
+                {
+                    "id": "1",
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+            ]
+        },
+        {
+            "title": "Lorem ipsum 2",
+            "content": [
+                {
+                    "id": "2",
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                },
+                {
+                    "id": "3",
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+            ]
+        }
+    ]
+}
